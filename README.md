@@ -19,7 +19,7 @@ If you liked the song you can listen it on https://www.youtube.com/watch?v=mB6wL
 # Developer
 Game development by: Kevin Narain
 <br>
-Made in Kimono Studio
+Made in: Kimono Studio
 
 # Copyright
 Copyright © 2021 Kevin Narain
