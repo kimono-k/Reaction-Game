@@ -5,7 +5,7 @@
 If you want to play this game you have to: 
 1. Download the reaction_game.rb file
 1. Install Ruby on your PC at https://rubyinstaller.org/downloads/
-2. Open Ruby Command Prompt
+2. Open the Ruby Command Prompt
 3. Drag the reaction_game.rb file into the Ruby Command Prompt
 4. Hit enter on your keyboard
 5. Have fun playing the game! :)
