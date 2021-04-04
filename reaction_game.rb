@@ -2,10 +2,6 @@
 # Developed by Kevin Narain
 require 'ruby2d'
 
-# Set green background color
-set background: 'fuchsia'
-set title: "Reaction Game by Kimono Studio"
-
 # Global variables
 message = Text.new("Click to begin", x: 20, y: 20) # Show text
 game_started = false # Game not started
@@ -13,6 +9,10 @@ square = nil
 start_time = nil
 duration = nil # Is used with #{}
 tiger_eyes = Music.new('tigereyes.mp3')
+
+# Set green background color
+set background: 'fuchsia'
+set title: "Reaction Game by Kimono Studio"
 
 # When mouse button is down then
 on :mouse_down do |event|
