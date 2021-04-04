@@ -1,5 +1,7 @@
 # Reaction game by Kimono Studio
 # Developed by Kevin Narain
+
+# Import Ruby Gem
 require 'ruby2d'
 
 # Global variables
