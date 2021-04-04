@@ -43,5 +43,5 @@ on :mouse_down do |event|
   end
 end
 
-# Execute program
+# Shows the window
 show
