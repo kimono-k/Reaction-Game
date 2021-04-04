@@ -3,7 +3,7 @@
 
 # Before you play
 If you want to play this game you have to: 
-1. Download the reaction_game.rb file
+1. Download this repo
 1. Install Ruby on your PC at https://rubyinstaller.org/downloads/
 2. Open the Ruby Command Prompt
 3. Drag the reaction_game.rb file into the Ruby Command Prompt
