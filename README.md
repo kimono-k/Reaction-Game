@@ -10,6 +10,8 @@ If you want to play this game you have to:
 4. Hit enter on your keyboard
 5. Have fun playing the game! :)
 
+Note: I wanted to make the game an executable but Ruby2D doesn't provide it on Windows unfortunately.
+
 # Instructions
 You have to click the square as fast as possible to improve your reaction capabilities. This can be done with your <b>left mouse button</b>.
 
