@@ -6,10 +6,10 @@ If you want to play this game you have to:
 1. Download this repo
 1. Install Ruby on your PC at https://rubyinstaller.org/downloads/
 2. Open the Ruby Command Prompt
-3. Type in cd, click on the spacebar, and then drag the folder Reaction-Game into the Ruby Command Prompt.
-4. Click Enter on your keybaord
+3. Type in <b>cd</b>, click on the <b>spacebar</b>, and then drag the folder Reaction-Game into the Ruby Command Prompt.
+4. Click <b>enter</b> on your keybaord
 5. Drag the reaction_game.rb file into the Ruby Command Prompt
-6. Hit enter once again on your keyboard
+6. Hit <b>enter</b> once again on your keyboard
 7. Have fun playing the game! :)
 
 Note: I wanted to make the game an executable but Ruby2D doesn't provide it on Windows unfortunately.
