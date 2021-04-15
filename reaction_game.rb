@@ -11,6 +11,7 @@ square = nil
 start_time = nil
 duration = nil # Is used with #{}
 tiger_eyes = Music.new('tigereyes.mp3')
+clicks = 5
 
 # Set green background color
 set background: 'fuchsia'
